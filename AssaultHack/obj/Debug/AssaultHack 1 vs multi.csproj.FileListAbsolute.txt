@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\AssaultCube\씨샵\AssaultHack\AssaultHack\obj\Debug\AssaultHack.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AssaultCube\씨샵\AssaultHack\AssaultHack\obj\Debug\AssaultHack.Form1.resources
+C:\Users\Administrator\Desktop\AssaultCube\씨샵\AssaultHack\AssaultHack\obj\Debug\AssaultHack.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AssaultCube\씨샵\AssaultHack\AssaultHack\obj\Debug\AssaultHack.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\AssaultCube\씨샵\AssaultHack\AssaultHack\obj\Debug\AssaultHack.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AssaultCube\씨샵\AssaultHack\AssaultHack\bin\Debug\AssaultHack.exe.config
+C:\Users\Administrator\Desktop\AssaultCube\씨샵\AssaultHack\AssaultHack\bin\Debug\AssaultHack.exe
+C:\Users\Administrator\Desktop\AssaultCube\씨샵\AssaultHack\AssaultHack\bin\Debug\AssaultHack.pdb
+C:\Users\Administrator\Desktop\AssaultCube\씨샵\AssaultHack\AssaultHack\obj\Debug\AssaultHack.exe
+C:\Users\Administrator\Desktop\AssaultCube\씨샵\AssaultHack\AssaultHack\obj\Debug\AssaultHack.pdb
+C:\Users\Administrator\Desktop\AssaultCube\씨샵\AssaultHack\AssaultHack\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\Users\Administrator\Desktop\AssaultCube\씨샵\AssaultHack\AssaultHack\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\Administrator\Desktop\AssaultCube\씨샵\AssaultHack\AssaultHack\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+C:\Users\Administrator\Desktop\AssaultCube\씨샵\AssaultHack\AssaultHack\obj\Debug\AssaultHack.csproj.CopyComplete
